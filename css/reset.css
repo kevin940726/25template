@@ -1,0 +1,23 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+@-webkit-keyframes skdoa {
+  100% {
+    -webkit-transform: opacity 1s;
+            transform: opacity 1s;
+  }
+}
+
+@keyframes skdoa {
+  100% {
+    -webkit-transform: opacity 1s;
+            transform: opacity 1s;
+  }
+}
